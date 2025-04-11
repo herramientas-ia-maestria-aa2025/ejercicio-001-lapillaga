@@ -20,5 +20,5 @@ def read_info_file(file_path):
 
 
 if __name__ == "__main__":
-    file_path = '/Users/luispillaga/Projects/maestria/ejercicio-001-lapillaga/informacion.txt'
+    file_path = './informacion.txt'
     data = read_info_file(file_path)
